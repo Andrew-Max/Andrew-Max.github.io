@@ -3,9 +3,16 @@ layout: post
 title:  "First Stop: Medellin"
 date:   2016-01-08 15:39:40
 preview: http://placehold.it/300x300
+images:
+  - image_path: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/moto.jpg
+    title: New Bike
+    description: Honda XR150
+  - image_path: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/church.jpg
+    title: Some Big Church
+    description: Honda XR150
 ---
 
-![Picture 1](http://placehold.it/800x600)
+{% include photo-gallery.html %}
 
 I landed in Medellin on the night of December the 29th at 2 in the morning. I was eager to get to a hostel and see the city and other travelers but I also had hundreds of dollars worth of gear on me including laptop, dslr and satnav in three large bags and didn't trust it at a hostel. So I got a hotel where I could get a room with a locking door until I could meet up with a friend in the city the next morning and lock it all up at his apartment. I was exhausted and had surreal taxi ride through through thick jungle foliage and thicker fog to a small Hotel outside the city called Case Mosaica (add link). Casa Mosiaca had a cool old farm house feel and was covered in hand paited ceramic tiles.
 <br>
