@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Pre trip: Packing"
+date:   2016-01-08 15:39:40
+preview: http://placehold.it/300x300
+---
+
+![Picture 1](http://placehold.it/800x600)
+
+I'm packing for my trip.
