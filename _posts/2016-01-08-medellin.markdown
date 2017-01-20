@@ -2,7 +2,7 @@
 layout: post
 title:  "First Stop: Medellin"
 date:   2016-01-08 15:39:40
-preview: http://placehold.it/300x300
+preview: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/29.jpg
 image_path: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/full/
 image_count: 42
 ---

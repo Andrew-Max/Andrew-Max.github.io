@@ -11,6 +11,11 @@
       font-size: 26px;
       padding-top: 30px;
       text-shadow: none;
+
+      &:hover {
+        background: none;
+        color: #A731A7;
+      }
     }
   }
   .face {
