@@ -171,8 +171,13 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     border: 1px solid $background-color;
-    
+
     &:hover {
         border: 1px solid $grey-color-light;
+    }
+
+    img {
+        height: 300px;
+        width: 300px;
     }
 }
