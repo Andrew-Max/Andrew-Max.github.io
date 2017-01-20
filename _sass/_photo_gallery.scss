@@ -19,7 +19,7 @@ body { font-family: sans-serif; }
 
 .grid {
   background: #EEE;
-  max-width: 1800px;
+  max-width: 1500px;
 }
 
 /* clearfix */
@@ -33,7 +33,7 @@ body { font-family: sans-serif; }
 
 .grid-item {
   image-orientation: from-image;
-  width: 600px;
+  width: 500px;
   height: 400px;
   float: left;
   border: 2px solid #333;
@@ -42,7 +42,7 @@ body { font-family: sans-serif; }
   cursor: pointer;
 }
 
-.grid-item--width2 { width: 1800px; }
+.grid-item--width2 { width: 1500px; }
 
 
 .grid-item--height2 { height: 800px; }
