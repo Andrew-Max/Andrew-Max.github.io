@@ -3,185 +3,94 @@ layout: post
 title:  "First Stop: Medellin"
 date:   2016-01-08 15:39:40
 preview: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/29.jpg
-image_path: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/full/
-image_count: 42
+images:
+  - type: pano
+    id: 1
+  - type: horizontal
+    id: 29
+  - type: horizontal
+    id: 17
+  - type: vertical
+    id: 1
+  - type: horizontal
+    id: 12
+  - type: horizontal
+    id: 13
+  - type: pano
+    id: 2
+  - type: horizontal
+    id: 4
+  - type: horizontal
+    id: 5
+  - type: vertical
+    id: 3
+  - type: horizontal
+    id: 6
+  - type: horizontal
+    id: 7
+  - type: pano
+    id: 3
+  - type: horizontal
+    id: 9
+  - type: horizontal
+    id: 10
+  - type: vertical
+    id: 4
+  - type: horizontal
+    id: 11
+  - type: horizontal
+    id: 3
+  - type: horizontal
+    id: 8
+  - type: horizontal
+    id: 14
+  - type: horizontal
+    id: 15
+  - type: vertical
+    id: 5
+  - type: horizontal
+    id: 16
+  - type: horizontal
+    id: 2
+  - type: horizontal
+    id: 18
+  - type: vertical
+    id: 6
+  - type: horizontal
+    id: 19
+  - type: horizontal
+    id: 20
+  - type: vertical
+    id: 7
+  - type: horizontal
+    id: 21
+  - type: horizontal
+    id: 22
+  - type: horizontal
+    id: 23
+  - type: vertical
+    id: 8
+  - type: horizontal
+    id: 24
+  - type: horizontal
+    id: 25
+  - type: horizontal
+    id: 26
+  - type: vertical
+    id: 9
+  - type: horizontal
+    id: 27
+  - type: horizontal
+    id: 28
+  - type: horizontal
+    id: 1
+  - type: vertical
+    id: 2
+  - type: vertical
+    id: 30
 ---
-<div class="photo-gallery">
-  <div class="grid">
 
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/pano/1.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--width2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/pano/1.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/29.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/29.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/17.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/17.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/1.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/1.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/12.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/12.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/13.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/13.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/pano/2.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--width2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/pano/2.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/4.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/4.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/5.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/5.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/3.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/3.jpg">
-      </a>
-
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/6.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/6.jpg">
-      </a>
-
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/7.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/7.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/pano/3.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--width2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/pano/3.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/9.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/9.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/10.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/10.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/4.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/4.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/11.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/11.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/3.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/3.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/8.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/8.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/14.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/14.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/15.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/15.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/5.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/5.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/16.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/16.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/2.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/2.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/18.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/18.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/6.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/6.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/19.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/19.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/20.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/20.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/7.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/7.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/21.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/21.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/22.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/22.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/23.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/23.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/8.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/8.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/24.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/24.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/25.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/25.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/26.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/26.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/9.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/9.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/27.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/27.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/28.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/28.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/1.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/1.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/vertical/2.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item grid-item--height2" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/vertical/2.jpg">
-      </a>
-
-      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/30.jpg" data-lightbox="lb" data-title="My caption">
-        <img class="grid-item" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/horizontal/30.jpg">
-      </a>
-  </div>
-</div>
-
-<!-- I landed in Medellin on the night of December the 29th at 2 in the morning. I was eager to get to a hostel and see the city and other travelers but I also had hundreds of dollars worth of gear on me including laptop, dslr and satnav in three large bags and didn't trust it at a hostel. So I got a hotel where I could get a room with a locking door until I could meet up with a friend in the city the next morning and lock it all up at his apartment. I was exhausted and had surreal taxi ride through through thick jungle foliage and thicker fog to a small Hotel outside the city called Case Mosaica (add link). Casa Mosiaca had a cool old farm house feel and was covered in hand paited ceramic tiles.
+I landed in Medellin on the night of December the 29th at 2 in the morning. I was eager to get to a hostel and see the city and other travelers but I also had hundreds of dollars worth of gear on me including laptop, dslr and satnav in three large bags and didn't trust it at a hostel. So I got a hotel where I could get a room with a locking door until I could meet up with a friend in the city the next morning and lock it all up at his apartment. I was exhausted and had surreal taxi ride through through thick jungle foliage and thicker fog to a small Hotel outside the city called Case Mosaica (add link). Casa Mosiaca had a cool old farm house feel and was covered in hand paited ceramic tiles.
 <br>
 <br>
 The next day the hotel arranged a ride to the city. When the car popped out of the hills of Santa Ellana outside the city to make the descent into Medellin I got one of the craziest city views I have ever seen in my life. The hills rise up to 6000 ft over the city and you can see Medellin end to end from the top.
@@ -202,4 +111,4 @@ After a couple nights of going out culminating on new years at an awesome hillsi
 John, the guy I am going to be riding with at the beginning of the trip, arrived on the 4th and stayed at the airbnb with me for a couple nights. We spent the next couple days motorcycle shopping and I finally settled on a bike: a brand new Honda XR150 for about $2600. 150 is definitely a little smaller then I wanted to get, but it got me a brand new honda which hopefully means I won't spend a lot of time dealing with mechanical issues on the trip. I'm nervous about how it's going to deal with the weight of the aluminum side cases and all the camping gear but I think it will make it.
 <br>
 <br>
-Hopefully I'll get to see a little bit more of the city in the next couple days and maybe have a day riding the bikes offroad somewhere around medellin before we leave. Then it's off into the rest of South America. -->
+Hopefully I'll get to see a little bit more of the city in the next couple days and maybe have a day riding the bikes offroad somewhere around medellin before we leave. Then it's off into the rest of South America.

@@ -1,0 +1,9 @@
+<div class="photo-gallery">
+  <div class="grid">
+    {% for image in page.images %}
+      <a href="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/{{image.type}}/{{image.id}}.jpg" data-lightbox="lb" data-title="My caption">
+        <img class="grid-item {% if image.type == "vertical" %}grid-item--height2{% endif %} {% if image.type == "pano" %}grid-item--width2{% endif %}" src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/thumb/{{image.type}}/{{image.id}}.jpg">
+      </a>
+    {% endfor %}
+  </div>
+</div>
