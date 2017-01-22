@@ -1,4 +1,5 @@
 ---
+uid: 1
 layout: post
 title:  "Gear List / Pre Trip"
 date:   2016-01-08 15:39:40

@@ -1,7 +1,8 @@
 <div class="photo-gallery">
   <div class="grid">
     {% for image in page.images %}
-      <a href="{{page.s3-base}}/sized/{{image.type}}/{{image.id}}.jpg" data-lightbox="lb" data-title="My caption">
+      <p>{{page.uid}}</p>
+      <a href="{{page.s3-base}}/{% if page.uid == 2 %}sized{% else %}full{% endif %}/{{image.type}}/{{image.id}}.jpg" data-lightbox="lb" data-title="My caption">
         <img class="grid-item {% if image.type == "vertical" %}grid-item--height2{% endif %} {% if image.type == "pano" %}grid-item--width2{% endif %}" src="{{page.s3-base}}/thumb/{{image.type}}/{{image.id}}.jpg">
       </a>
     {% endfor %}
