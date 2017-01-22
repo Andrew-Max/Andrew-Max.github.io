@@ -2,7 +2,8 @@
 layout: post
 title:  "First Stop: Medellin"
 date:   2016-01-08 15:39:40
-preview: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin/sized/horizontal/29.jpg
+s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin
+preview: thumb/horizontal/29.jpg
 images:
   - type: pano
     id: 1
