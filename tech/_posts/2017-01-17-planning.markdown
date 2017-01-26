@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Pre trip: Packing"
+title:  "TODO"
 date:   2016-01-08 15:39:40
 preview: http://placehold.it/300x300
 ---
 
+Do this
