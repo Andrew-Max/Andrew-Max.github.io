@@ -92,26 +92,41 @@ images:
   - type: horizontal
     id: 30
 ---
+<div class="content">
 
-I landed in Medellin on the night of December the 29th at 2 in the morning. I was eager to get to a hostel and see the city and other travelers but I also had hundreds of dollars worth of gear on me including laptop, dslr and satnav in three large bags and didn't trust it at a hostel. So I got a hotel where I could get a room with a locking door until I could meet up with a friend in the city the next morning and lock it all up at his apartment. I was exhausted and had surreal taxi ride through through thick jungle foliage and thicker fog to a small Hotel outside the city called Case Mosaica (add link). Casa Mosiaca had a cool old farm house feel and was covered in hand paited ceramic tiles.
-<br>
-<br>
-The next day the hotel arranged a ride to the city. When the car popped out of the hills of Santa Ellana outside the city to make the descent into Medellin I got one of the craziest city views I have ever seen in my life. The hills rise up to 6000 ft over the city and you can see Medellin end to end from the top.
-<br>
-<br>
-I dropped a bag of clothes off at the Tiger Paw hostel in the Foreigner heavy El Poblado neighborhood (more than 50% foreigners) and took my bags of riding gear and gadgets to my friend's apartment in the south of the city. He helped me get setup with a Colombian sim card and we ate a traditional colombian meal of carrot soup, rice and a pork chop. We went back to El Poblado that night, went bar hopping and did some shots of the local licquor `aguardiente` which tastes like ouzo.
-<br>
-<br>
-We stayed out until about three and I went to pee in an alleyway at the end of the night when a police motorcycle with to cops pulled up behind me and told me that the alleyway was not a bathroom. The had me put my hands up on a wall and grabbed my wallet straight out of pocket to `check my id` and it was missing a $100 when I got back. It seemed pretty steep given that people were blatanly selling large volumes of cocaine in the street less then a block away but I'm sure they had already paid their bribes. Not much I could do and I was happy no to have had anything worse happen so I went back to the hostel and passed out.
-<br>
-<br>
-The next couple days were spent wandering around the city, eating tons of dirt cheap food, checking out motorcycles for the upcoming trip, and going out at night with troves of European travelers who seemed to be subsisting mostly off of cocaine, which to be fair is cheaper to consume then food in medellin. El Poblado is swarming with traveling candy vendors and literally every single one of them is dealing cocaine.
-<br>
-<br>
-After a couple nights of going out culminating on new years at an awesome hillside dance party over looking the whole city I moved to a new hostel in the quiter College neighborhood of Laureles and the next night into a $20 a night airbnb.
-<br>
-<br>
-John, the guy I am going to be riding with at the beginning of the trip, arrived on the 4th and stayed at the airbnb with me for a couple nights. We spent the next couple days motorcycle shopping and I finally settled on a bike: a brand new Honda XR150 for about $2600. 150 is definitely a little smaller then I wanted to get, but it got me a brand new honda which hopefully means I won't spend a lot of time dealing with mechanical issues on the trip. I'm nervous about how it's going to deal with the weight of the aluminum side cases and all the camping gear but I think it will make it.
-<br>
-<br>
-Hopefully I'll get to see a little bit more of the city in the next couple days and maybe have a day riding the bikes offroad somewhere around medellin before we leave. Then it's off into the rest of South America.
+  I landed in Medellin on the night of December the 29th at 2 in the morning. I was exhausted and had surreal taxi ride through thick jungle foliage and thicker fog to a small Hotel outside the city, <a href="http://www.casamosaico.co/fotos/">Casa Mosaica</a> where I could lock up all my trip gear until I could drop it off at a friend's house the next day.
+  <br>
+  <br>
+  Medellin is pretty much paradise. It's 80 and sunny all year long. You can get a meal for $3 and a beer for a buck at a bar. The girls are gorgeous and everyone is super friendly. The scenery is unreal. It's surrounded by mountains and jungle in every direction and you can be on a Caribbean beach in one day by car.
+  <br>
+  <br>
+  There's essentially no Americans here but apparently Europe and the rest of South America got the memo. The hostels are packed with Europeans, mostly swedes, danish, german, and french, who seem to be averaging at least 6 months on their trips. They think it's weird that we think that's weird. They seem to subsist mostly off of shitty house music and the $4 a gram cocaine (which it is legal to have up to a gram of).
+  <br>
+  <br>
+  The city is surrounded on all sides by 5000 - 6000ft hills (the grand canyon is 6000ft deep for reference). It's amazing in person but it's so expansive that I couldn't find any good way to photograph it. When I caught a taxi from the hotel into the city I wasn't expecting anything and I was blown away when we turned into the valley and you immediately see the entire city from 5000ft.
+  <br>
+  <br>
+  I moved into my first hostel, <a href="http://www.tigerpawmedellin.com/">Tiger Paw hostel</a> in the Foreigner heavy El Poblado neighborhood (maybe almost 50% tourists in the neighborhood) and then met up with my friend Brian who showed me around the city. We went back to El Poblado that night, went bar hopping and did some shots of the local anise flavored licquor 'aguardiente' and ended up getting pretty drunk.
+  <br>
+  <br>
+  We stayed out until about three and I went to pee in an alleyway at the end of the night when a police motorcycle with two cops pulled up behind me and told me that the alleyway was not a bathroom. The had me put my hands up on a wall and grabbed my wallet straight out of pocket to `check my id` and it was missing a $100 when I got back. It seemed pretty steep given that people were blatanly selling cocaine in the street less then a block away but I'm sure they had already paid their bribes. Not much I could do and I was happy no to have had anything worse happen so I went back to the hostel and passed out.
+  <br>
+  <br>
+  I spent the next two weeks moving to different hostels around the city, and getting ready for the trip. I moved over to a much more localod called Laureles(<a href="http://buddhahostel.com/en/"> Buddha Hostel</a>, <a href="https://www.facebook.com/ensohostelmedellin/">Enso Hostel</a>, and an AirBnB). Pretty quiet during the day but once it gets dark the salsa clubs light up and the street food comes out and things stay open all night.
+  <br>
+  <br>
+  I met up with the other guy I was going to be riding with and he was actually pretty helpful in getting a bike because his spanish was very good but it became apparent really quickly that I didn't want to ride with him. He was really self absorbed and was doing coke all day every day in the hostel. I didn't want to be around when he couldn't get any more once we are on the road. I ended up just moving to a different hostel without saying anything to him because I didn't feel like debating what was already a done decision.
+  <br>
+  <br>
+   I ended up buying the bike, a brand new <a href="http://motos.honda.com.co/todo-terreno/XR-150L">Honda XR 150</a>.At $2600 I shouldn't lose to much if I am able to sell it at the end. I think that might mean I have to come back to Medellin though which is a big change of plans. It's smaller then I wanted but I'm not riding high ways anyway and I really coudn't afford any more bike anyway.
+  <br>
+  <br>
+  So, I have a couple more days, to finish up setting up the blog, load the gps, plan the course, and hit the road.
+
+  My plan is to ride from Medellin to Quito in about two weeks. Once I'm in quito I'm going to head to the shore and do some surfing and stop and study spanish for a month because my spanish is shit and it's going to need to be better once I'm in more remote areas. The trip until then is:
+
+  <a href="https://www.google.com.co/maps/dir/Medellin,+Antioquia/Aguadas,+Caldas/Manizales,+Caldas/Salento,+Quindio/Cali,+Valle+del+Cauca/Popay%C3%A1n+-+Cauca+Department/Pasto,+Narino/Ipiales,+Narino/Otavalo,+Imbabura+Province,+Ecuador/Quito,+Pichincha,+Ecuador/@3.0297343,-79.2115092,7z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x8e4428ef4e52dddb:0x722fd6c39270ac72!2m2!1d-75.5812119!2d6.244203!1m5!1m1!1s0x8e46e23797084ed3:0xb9bb3f891a4b1c38!2m2!1d-75.453135!2d5.608334!1m5!1m1!1s0x8e476f9170e6be43:0x554ce06678120a7a!2m2!1d-75.513265!2d5.067172!1m5!1m1!1s0x8e3892bcedc420e5:0x8f81edeeadd699ba!2m2!1d-75.570777!2d4.637376!1m5!1m1!1s0x8e30a643b69d2711:0x37dee5ad2745e3fb!2m2!1d-76.535758!2d3.45246!1m5!1m1!1s0x8e300311c028d47d:0x880bd67f0987a54e!2m2!1d-76.6147395!2d2.4448143!1m5!1m1!1s0x8e2ed48761b92a73:0x44a368566cc3a522!2m2!1d-77.285787!2d1.2058837!1m5!1m1!1s0x8e296be8ff9ef0bb:0x10cc77dc7bc71d2c!2m2!1d-77.639504!2d0.825542!1m5!1m1!1s0x8e2a14969c8ae5ad:0x7594fb6eb6c2239e!2m2!1d-78.2610672!2d0.2343005!1m5!1m1!1s0x91d59a4002427c9f:0x44b991e158ef5572!2m2!1d-78.4678382!2d-0.1806532!3e0?hl=en">Medellin -> Aguadas - > Manizales -> Salento -> Cali -> Popayan -> Pasto -> Ipiales -> Otovalo -> Quito</a> 1251 Km and 27 hours on the road, lots of small colombian towns, the coffee region, Cali (the salsa capital of the world) and the border crossing into Ecuador.
+  <br>
+  <br>
+  Cannot wait to get on the road...
+</div>
