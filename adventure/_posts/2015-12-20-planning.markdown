@@ -34,11 +34,11 @@ images:
   <li><a href="https://www.amazon.com/gp/product/B00SX4Z848/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1">Frog Toggs Rain Suit</a></li>
   <li><a href="https://www.amazon.com/gp/product/B010IS0OUE/ref=od_aui_detailpages11?ie=UTF8&psc=1">Hydration Pack</a></li>
 
-  <h3>Camping Gear</h3>
+  <h3 >Camping Gear</h3>
   <li><a href="https://www.amazon.com/gp/product/B018W12LUA/ref=od_aui_detailpages02?ie=UTF8&psc=1">Tarp</a></li>
   <li>Sleeping Bag: 45 Degree Bag</li>
   <li><a class="rip" href="https://www.rei.com/product/845298/rei-co-op-airrail-15-self-inflating-sleeping-pad">Ground Pad: REI Air Rail 1.5 (RIP: fell of back of bike )</a></li>
-  <li><a href="https://www.rei.com/product/878520/rei-co-op-half-dome-2-plus-tent">REI Half Dome 2 tent</a></li>
+  <li><a class="rip" href="https://www.rei.com/product/878520/rei-co-op-half-dome-2-plus-tent">REI Half Dome 2 tent</a></li>
   <li><a href="https://www.amazon.com/gp/product/B016BX3P6A/ref=od_aui_detailpages11?ie=UTF8&psc=1">Mosquito Net</a></li>
   <li><a href="https://www.amazon.com/gp/product/B00S1R0PUY/ref=oh_aui_detailpage_o05_s08?ie=UTF8&psc=1">Sleeping Bag Liner</a></li>
   <li><a href="https://www.amazon.com/gp/product/B01CSAVXNC/ref=od_aui_detailpages02?ie=UTF8&psc=1">60L WaterProof Backpack Duffle Bag</a></li>
@@ -47,8 +47,8 @@ images:
   <li><a href="https://www.amazon.com/gp/product/B01GXENHZQ/ref=oh_aui_detailpage_o05_s01?ie=UTF8&psc=1">Hammock</a></li>
   <li><a  class="rip" href="https://www.amazon.com/gp/product/B00C37RKGU/ref=oh_aui_detailpage_o05_s07?ie=UTF8&psc=1">Multi Fuel Stove RIP: Threw away</a></li>
   <li><a  class="rip" href="https://www.amazon.com/gp/product/B019Z31RQS/ref=oh_aui_detailpage_o05_s13?ie=UTF8&psc=1">Cookware Set RIP: Threw away</a></li>
-  <li><a href="https://www.amazon.com/gp/product/B013HJZ5FU/ref=od_aui_detailpages02?ie=UTF8&psc=1">Inflatable Pillow</a></li>
-  <li><a href="https://www.amazon.com/gp/product/B00Y2A6Z12/ref=oh_aui_detailpage_o05_s07?ie=UTF8&psc=1">Folding Chair</a></li>
+  <li><a class="rip" href="https://www.amazon.com/gp/product/B013HJZ5FU/ref=od_aui_detailpages02?ie=UTF8&psc=1">Inflatable Pillow (Got a Tear)</a></li>
+  <li><a class="rip" href="https://www.amazon.com/gp/product/B00Y2A6Z12/ref=oh_aui_detailpage_o05_s07?ie=UTF8&psc=1">Folding Chair (Gave to Daniel, couldn't carry)</a></li>
   <li><a  class="rip" href="https://www.amazon.com/gp/product/B01COUI0EG/ref=oh_aui_detailpage_o05_s06?ie=UTF8&psc=1">Folding Table RIP: Threw away</a></li>
   <li><a href="https://www.amazon.com/gp/product/B01CQVQQ08/ref=od_aui_detailpages08?ie=UTF8&psc=1">Towel Set</a></li>
 
@@ -78,7 +78,7 @@ images:
   <li><a href="https://www.amazon.com/gp/product/B000G80KZQ/ref=od_aui_detailpages08?ie=UTF8&th=1">Medical Kit</a></li>
   <li><a href="https://www.amazon.com/gp/product/B006QF3TW4/ref=od_aui_detailpages02?ie=UTF8&psc=1">Life Straw</a></li>
   <li><a  class="rip" href="https://www.amazon.com/gp/product/B019SWHR3S/ref=oh_aui_detailpage_o05_s01?ie=UTF8&psc=1">Multi Shovel RIP: Threw away</a></li>
-  <li><a href="https://www.amazon.com/gp/product/B016UWWS2O/ref=oh_aui_detailpage_o05_s02?ie=UTF8&psc=1">Magnesium Fire Starter RIP: Threw away</a></li>
+  <li><a  class="rip" href="https://www.amazon.com/gp/product/B016UWWS2O/ref=oh_aui_detailpage_o05_s02?ie=UTF8&psc=1">Magnesium Fire Starter RIP: Threw away</a></li>
   <li><a  class="rip" href="https://www.amazon.com/gp/product/B001ID4ZY0/ref=oh_aui_detailpage_o05_s02?ie=UTF8&psc=1">Compass RIP: Threw away</a></li>
   <li><a href="https://www.amazon.com/gp/product/B003V0OSPO/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Torch Lighter</a></li>
 
