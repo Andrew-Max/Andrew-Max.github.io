@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="map">
+  <iframe src="https://www.google.com/maps/d/embed?mid=1a_JhyjNCnoYT8oBKcrTk5BNucls"></iframe>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function () {
+    var height = window.screen.height - 300;
+    var width = window.screen.width - 90;
+    $('.map').width(width);
+    $('.map iframe').width(width).height(height);
+  });
+</script>
