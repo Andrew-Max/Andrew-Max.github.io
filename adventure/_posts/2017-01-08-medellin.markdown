@@ -2,10 +2,10 @@
 uid: 2
 layout: post
 title:  "First Stop: Medellin"
-date:   2016-01-08 15:39:40
+date:   2017-01-08 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/medellin
 preview: thumb/horizontal/29.jpg
-previousurl: /adventure/2016/01/08/planning/
+previousurl: /adventure/2016/12/20/planning/
 nexturl: /adventure/2017/01/31/aguadas-cali/
 images:
   - type: pano

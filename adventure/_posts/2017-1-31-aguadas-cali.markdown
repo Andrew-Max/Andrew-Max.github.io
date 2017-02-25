@@ -5,7 +5,7 @@ title:  "Into The Jungle: Medellin to Cali"
 date:   2017-01-31 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/aguadas-cali
 preview: thumb/horizontal/19.jpg
-previousurl: /adventure/2016/01/08/medellin/
+previousurl: /adventure/2017/01/08/medellin/
 images:
   - type: horizontal
     id: 37
