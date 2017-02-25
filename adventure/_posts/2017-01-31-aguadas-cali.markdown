@@ -150,7 +150,7 @@ images:
   <h3>Armenia</h3>
     <p>Pretty boring 3 hour drive over</p>
     <p>Mid Sized City, found a surprisingly nice hostel, Wanderlust, for $10/night</p>
-    <p>Walked up to some random people who were drinking beer at a cafe at night and were speaking English. Ended up being awesome people and they invited me to go camping with them the next day. Daniel, who lives in Armenia was also a super strong climber (on the colombian national team) and we climbed at their local gym. Was in shit shape now after not having climbed for a year.</p>
+    <p>Walked up to some random people who were drinking beer at a cafe at night and were speaking English. Ended up being awesome people and they invited me to go camping with them the next day. One of them, Daniel, who lives in Armenia was also a super strong climber (on the colombian national team) and we climbed together at local gym. Was in shit shape after not having climbed for a year.</p>
     <p>Met some hilarious metalheads after leaving a salsa club and drank Aguardiente with them in a sketchy parking lot until police made us leave around 4am</p>
   <h3>Filandia</h3>
     <p>Drove with Daniel and the crew to a super cool hostel on farmland in the middle of nowhere outside of a cool small town called Filandia</p>
