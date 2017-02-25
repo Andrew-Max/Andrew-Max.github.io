@@ -1,12 +1,15 @@
 ---
-uid: 2
+uid: 3
 layout: post
 title:  "Into The Jungle: Medellin to Cali"
 date:   2017-01-31 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/aguadas-cali
 preview: thumb/horizontal/19.jpg
 previousurl: /adventure/2017/01/08/medellin/
+nexturl: /adventure/2017/02/12/cali-ipiales/
 images:
+  - type: pano
+    id: 1
   - type: horizontal
     id: 37
   - type: horizontal
@@ -27,6 +30,8 @@ images:
     id: 26
   - type: horizontal
     id: 36
+  - type: pano
+    id: 2
   - type: horizontal
     id: 28
   - type: horizontal
@@ -45,10 +50,12 @@ images:
     id: 12
   - type: horizontal
     id: 17
-  - type: vertical
-    id: 1
   - type: horizontal
     id: 12
+  - type: pano
+    id: 3
+  - type: vertical
+    id: 1
   - type: horizontal
     id: 13
   - type: horizontal
@@ -96,25 +103,29 @@ images:
   - type: horizontal
     id: 21
   - type: horizontal
-    id: 22
-  - type: horizontal
-    id: 23
+    id: 1
   - type: vertical
-    id: 9
+    id: 2
   - type: horizontal
     id: 24
   - type: horizontal
     id: 25
   - type: horizontal
     id: 35
+  - type: pano
+    id: 4
+  - type: horizontal
+    id: 22
+  - type: horizontal
+    id: 23
+  - type: vertical
+    id: 9
   - type: horizontal
     id: 27
   - type: horizontal
     id: 38
-  - type: horizontal
-    id: 1
-  - type: vertical
-    id: 2
+  - type: pano
+    id: 5
 ---
 <div class="post-content">
   <h2>Medellin -> Aguadas -> Manizales -> Armenia -> Filandia -> Cali</h2>
