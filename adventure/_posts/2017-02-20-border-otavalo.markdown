@@ -1,12 +1,11 @@
 ---
-uid: 4
+uid: 5
 layout: post
-title:  "Headed for Ecuador: Cali to Ipiales"
-date:   2017-02-12 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/cali-ipiales
+title:  "Indigenous Market and Rainforest: Ipaiales to Mindo"
+date:   2017-02-20 15:39:40
+s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/border-otavalo
 preview: thumb/horizontal/19.jpg
-previousurl: /adventure/2017/01/31/aguadas-cali/
-nexturl: /adventure/2017/2/20/border-otavalo/
+previousurl: /adventure/2017/02/12/cali-ipiales/
 images:
   - type: pano
     id: 3
@@ -159,23 +158,12 @@ images:
 ---
 
 <div class="post-content">
-  <h2>Cali -> Popayan -> Ipiales </h2>
+  <h2>Ipiales -> Otavalo -> Mindo </h2>
 
-  <h4>Total Miles Covered So Far: 723</h4>
+  <h4>Total Miles Covered So Far: 645</h4>
   <h4>2/4/17 - 2/8/17</h4>
 
-  <h3>Popayan</h3>
-    <p>Nice But Pretty Bland Drive Over From Cali.</p>
-
-    <p>Popayan was one of my favorite places so far. The city is fairly large but there is a beautiful colonial historical district with maybe 6 or 7 square blocks of 17th century architecture, all painted white with terracotta roofs. In the middle is a massive square with all original architecture (all though apparently alot of it is faithful reconstructions from when it was damaged by an earthquake 20 years ago). There's also a huge mound which i thought was just a big hill but found out later is a pre-hispanic pyramid,</p>
-
-    <p>Met a ton of really cool people here, inlcuding the future mayor, hung out with some local english teachers and ended up staying for half a week,</p>
-
-  <h3>Ipiales</h3>
-    <p>Ipiales is a dirty, smelly, shithole of a town with nothing to do. The only reason I ended up there at all is becuase it's about 10 minutes from the Ecuador border and I'd heard that area wasn't that safe so I wanted to cross early.</p>
-
-    <p>The drive between popayan and Ipiales was the best of the trip so far though. I had had a couple of boring drives in a row and I wasn't expecting much but about an hour outside of Popayan there was a really nice stretch of the Andes which would transform into a desert landscape and back every fifteen or so minutres. After about three hours, the mountains started getting really big, and the road starts cutting through mountain passes which had by far the best views I'd seen on the trip. It was about 3 hours of riding through the Andes with incredible views. It was a 7 hour drive though and I was exhausted by the time I got back,</p>
-
-    <p>On the way out of Ipiales I checked out the Las Lajas church which is built spanning river and is a pretty crazy sight from the distance. I wanted to get going to the border though so I just took in the view and kept moving.</p>
+  <h3>Otavalo</h3>
+  <h3>Mindo</h3>
 </div>
 
