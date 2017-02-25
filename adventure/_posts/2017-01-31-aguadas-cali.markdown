@@ -9,7 +9,7 @@ previousurl: /adventure/2017/01/08/medellin/
 nexturl: /adventure/2017/02/12/cali-ipiales/
 images:
   - type: pano
-    id: 1
+    id: 2
   - type: horizontal
     id: 37
   - type: horizontal
@@ -31,7 +31,7 @@ images:
   - type: horizontal
     id: 36
   - type: pano
-    id: 2
+    id: 1
   - type: horizontal
     id: 28
   - type: horizontal
