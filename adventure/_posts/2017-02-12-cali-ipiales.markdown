@@ -173,8 +173,8 @@ images:
   <h3>Ipiales</h3>
     <p>Ipiales is a dirty, smelly, shithole of a town with nothing to do. The only reason I ended up there at all is becuase it's about 10 minutes from the Ecuador border and I'd heard that area wasn't that safe so I wanted to cross early.</p>
 
-    <p>The drive between popayan and Ipiales was the best of the trip so far though. I had had a couple of boring drives in a row and I wasn't expecting much but about an hour outside of Popayan there was a really nice stretch of mountains which then started switching back and forth between mountains and dessert. About three hours into the trip, the mountains started getting really big, and the road starts cutting through the mountains which had by far the best views I'd seen on the trip. It was about 3 hours of riding through curvy mountain passes with incredible views. Probably one of the best days of my life. It was a 7 hour drive though and I was exhausted by the time I got back,</p>
+    <p>The drive between popayan and Ipiales was the best of the trip so far though. I had had a couple of boring drives in a row and I wasn't expecting much but about an hour outside of Popayan there was a really nice stretch of the Andes which would transform into a desert landscape and back every fifteen or so minutres. After about three hours, the mountains started getting really big, and the road starts cutting through mountain passes which had by far the best views I'd seen on the trip. It was about 3 hours of riding through the Andes with incredible views. It was a 7 hour drive though and I was exhausted by the time I got back,</p>
 
-    <p>On the way out I checked out the Las Lajas church which is built spanning river and is a pretty crazy sight from the distance. I wanted to get going to the border though so I just took in the view and kept moving.</p>
+    <p>On the way out of Ipiales I checked out the Las Lajas church which is built spanning river and is a pretty crazy sight from the distance. I wanted to get going to the border though so I just took in the view and kept moving.</p>
 </div>
 
