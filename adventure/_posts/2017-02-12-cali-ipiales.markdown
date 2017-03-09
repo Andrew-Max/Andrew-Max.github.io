@@ -6,7 +6,7 @@ date:   2017-02-12 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/cali-ipiales
 preview: thumb/horizontal/19.jpg
 previousurl: /adventure/2017/01/31/aguadas-cali/
-nexturl: /adventure/2017/2/20/border-otavalo/
+nexturl: /adventure/2017/02/20/border-otavalo/
 images:
   - type: pano
     id: 3

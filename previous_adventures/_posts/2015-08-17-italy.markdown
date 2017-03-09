@@ -4,6 +4,7 @@ title:  "Fighting Hasidic Jews in Italy"
 date:   2015-08-17 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/italy
 preview: thumb/horizontal/18.jpg
+previousurl: /previous_adventures/2012/08/17/korea-thailand/
 nexturl: /previous_adventures/2016/11/08/costa-rica/
 images:
   - type: horizontal
