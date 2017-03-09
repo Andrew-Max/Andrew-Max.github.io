@@ -6,6 +6,7 @@ date:   2016-12-20 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/pre-trip
 preview: thumb/horizontal/2.jpg
 nexturl: /adventure/2017/01/08/medellin/
+previousurl: /previous_adventures/2016/11/08/costa-rica/
 images:
   - type: horizontal
     id: 1
