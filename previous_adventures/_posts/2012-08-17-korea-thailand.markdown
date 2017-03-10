@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thailand and Teaching in Seoul"
+title:  "강남 스타일 and กะเทย"
 date:   2012-08-17 15:39:40
 s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/korea-thailand
 preview: thumb/horizontal/75.jpg
