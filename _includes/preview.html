@@ -15,18 +15,18 @@
 <div class="preview-bg">
   <div class="wrapper lg">
     {% for post in site.categories.adventure %}
-        {% cycle 'add row' : '<div class="row">', nil, nil %}
-          <div class="col-sm-4">
-            <div class="preview-panel">
-              <a class="preview-image" href="{{ post.url | prepend: site.baseurl }}">
-                <img src="{{post.s3-base}}/cover.jpg">
-              </a>
-              <p>
-                {{ post.title }}
-              </p>
-            </div>
+      {% cycle 'add row' : '<div class="row">', nil, nil %}
+        <div class="col-sm-4">
+          <div class="preview-panel">
+            <a class="preview-image" href="{{ post.url | prepend: site.baseurl }}">
+              <img src="{{post.s3-base}}/cover.jpg">
+            </a>
+            <p>
+              {{ post.title }}
+            </p>
           </div>
-    {% cycle 'end row' : nil, nil, '</div>' %}
+        </div>
+      {% cycle 'end row' : nil, nil, '</div>' %}
     {% endfor %}
     {% cycle 'end row' : nil, '</div>', '</div>' %}
   </div>
@@ -34,7 +34,7 @@
   <div class="wrapper">
     <h1>Other Adventures</h1>
     {% for post in site.categories.previous_adventures %}
-        {% cycle 'add row' : '<div class="row">', <div class="row">, nil %}
+        {% cycle 'add other row' : '<div class="row">', nil, nil %}
           <div class="col-sm-4">
             <div class="preview-panel">
               <a class="preview-image" href="{{ post.url | prepend: site.baseurl }}">
@@ -45,8 +45,8 @@
               </p>
            </div>
           </div>
-        {% cycle 'end row' : nil, nil, '</div>' %}
+        {% cycle 'end other row' : nil, nil, '</div>' %}
     {% endfor %}
-    {% cycle 'end row' : nil, '</div>', '</div>' %}
+    {% cycle 'end other row' : nil, '</div>', '</div>' %}
   </div>
 </div>
