@@ -1,11 +1,8 @@
-<div class="map">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1a_JhyjNCnoYT8oBKcrTk5BNucls"></iframe>
-</div>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 <script>
   $(document).ready(function () {
-    var height = window.screen.height - 650;
+    var height = window.screen.height - 200;
     var width = window.screen.width - 90;
     $('.map').width(width);
     $('.map iframe').width(width).height(height);
@@ -48,5 +45,9 @@
         {% cycle 'end other row' : nil, nil, '</div>' %}
     {% endfor %}
     {% cycle 'end other row' : nil, '</div>', '</div>' %}
+  </div>
+
+  <div class="map">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1a_JhyjNCnoYT8oBKcrTk5BNucls"></iframe>
   </div>
 </div>
