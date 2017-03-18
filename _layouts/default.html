@@ -23,12 +23,15 @@
     <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
     <script type="text/javascript">
-      console.log("screen width: ", window.screen.width)
-      console.log("inner screen width: ", window.screen.innerWidth)
-
+      var columnWidth;
       var elem = document.querySelector('.grid');
-      var columnWidth = Math.floor((window.innerWidth * .9 - 20) / 3);
-      console.log("columnWidth: ", columnWidth)
+      
+      if(window.innerWidth < 800 ) {
+        columnWidth = Math.floor((window.innerWidth * .9 - 20));
+      } else {
+        columnWidth = Math.floor((window.innerWidth * .9 - 20) / 3);
+      };
+
       var msnry = new Masonry( elem, {
         // options
         itemSelector: '.grid-item',

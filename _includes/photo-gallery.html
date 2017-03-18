@@ -11,9 +11,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script type="text/javascript">
+  var singleColumnWidth;
   var gridWidth = Math.floor((window.innerWidth * .9 - 20));
-  console.log("grid width: ", gridWidth)
-  var singleColumnWidth = gridWidth / 3
+
+  if(window.innerWidth < 800 ) {
+	singleColumnWidth = gridWidth;
+  } else {
+    singleColumnWidth = gridWidth / 3
+  };
+
   var gridItemHeight = singleColumnWidth * .7
   $('.grid').css({ "width": gridWidth});
   $('.grid-item').css({ "width": singleColumnWidth, "height": gridItemHeight});
