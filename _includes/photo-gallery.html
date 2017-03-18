@@ -7,3 +7,16 @@
     {% endfor %}
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+  var gridWidth = Math.floor((window.innerWidth * .9 - 20));
+  console.log("grid width: ", gridWidth)
+  var singleColumnWidth = gridWidth / 3
+  var gridItemHeight = singleColumnWidth * .7
+  $('.grid').css({ "width": gridWidth});
+  $('.grid-item').css({ "width": singleColumnWidth, "height": gridItemHeight});
+  $('.grid-item--width2').css({ "width": gridWidth});
+  $('.grid-item--height2').css({ "height": gridItemHeight * 2});
+</script>

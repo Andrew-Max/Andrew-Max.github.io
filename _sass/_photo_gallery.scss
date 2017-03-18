@@ -6,7 +6,7 @@ body { font-family: sans-serif; }
 
 .grid {
   background: #EEE;
-  max-width: 1500px;
+  // width: 1200px;
   margin: auto;
 }
 
@@ -21,7 +21,6 @@ body { font-family: sans-serif; }
 
 .grid-item {
   image-orientation: from-image;
-  width: 500px;
   height: 400px;
   float: left;
   border: 2px solid #333;
@@ -30,9 +29,3 @@ body { font-family: sans-serif; }
   cursor: pointer;
 }
 
-.grid-item--width2 { width: 1500px; }
-
-
-.grid-item--height2 { height: 800px; }
-.grid-item--height3 { height: 600px; }
-.grid-item--height4 { height: 800px; }
