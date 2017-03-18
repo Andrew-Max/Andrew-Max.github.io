@@ -25,11 +25,11 @@
     <script type="text/javascript">
       var columnWidth;
       var elem = document.querySelector('.grid');
-      
+      var gridWidth = Math.floor((window.innerWidth * .97 - 20)) 
       if(window.innerWidth < 800 ) {
-        columnWidth = Math.floor((window.innerWidth * .9 - 20));
+        columnWidth = gridWidth - 20;
       } else {
-        columnWidth = Math.floor((window.innerWidth * .9 - 20) / 3);
+        columnWidth = gridWidth / 3;
       };
 
       var msnry = new Masonry( elem, {

@@ -12,10 +12,11 @@
 
 <script type="text/javascript">
   var singleColumnWidth;
-  var gridWidth = Math.floor((window.innerWidth * .9 - 20));
+  var gridWidth = Math.floor((window.innerWidth * .97 - 20));
 
   if(window.innerWidth < 800 ) {
-	singleColumnWidth = gridWidth;
+    gridWidth = gridWidth - 20;
+	  singleColumnWidth = gridWidth;
   } else {
     singleColumnWidth = gridWidth / 3
   };
