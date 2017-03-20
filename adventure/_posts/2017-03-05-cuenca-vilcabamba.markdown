@@ -154,6 +154,8 @@ images:
 
   <p>Riobamba has a huge beautiful volcano outside of it, Chimborazo, which I was going to visit in the morning but it was so cloudy that I literally could not see it at all so I ended up packing up and heading out early to Cuenca for another very wet, very cold, 4 hour ride. </p>
 
+  <p>During the drive I went through a bunch of small mountain towns and passed several processions of indigenous people celebrating carneval, wearing masks, and dancing in the street. The other much less cool way carneval is celebrated is by pouring water on peoples heads and throwing brightly colored chalk bombs at people. Luckily I didn't get chalk bombed but i did get sprayed with hoses a couple times that day which really sucked while on a long motorcycle ride...</p>
+
   <h3>Cuenca</h3>
   <p>Cuenca is the entire reason I am on this trip. When I was originally thinking about travelling, I would sit around on Google Maps for hours and drop the street view pin on different roads and cities. When I saw how beautiful Cuenca was I decided I needed to go there but it's really just out in the middle of nowhere. I was thinking about how I could realistically get there and I realized that if I had the bike, I'd have the freedom to go pretty much anywhere I wanted. From there it was just finding other cool towns and things I wanted to see and connecting the dots</p>
 
@@ -165,9 +167,13 @@ images:
 
   <p>Besides that I just spend the week being lazy and exploring the town and taking pictures. There's not that many hostels where you can feel really comfortable so I decided to spend more time there than I'd originally planned and just enjoyed it.</p>
 
+  <p>There are also some really amazing incan ruins right in the middle of the city and I spent a day checking that out as well as the mini aviary that was next to it.</p>
+
   <p>The next stop I'd planned was Loja about 5 hours south but I'd heard from a bunch of people that a small town outside of Loja called Vilcabamba was much cooler so I went there instead.</p>
 
   <h3>Vilcabamba</h3>
-  <p>Bad idea. Vilcabamba was the dumbest place I've visited so far. There is a legend that the people in Vilcabamba live upwards of 120 years which has been debunked many times, but a bunch of new agey, spiritual people vegans heard about it and decided to setup camp there. Every restaurant is vegan, every building is a yoga studio, every person is a sad washed up hippy who wants to sell you a dream catcher or some holistic healing bullshit. They have a reputation for settling there permantly and refusing to speak spanish. A couple invited me out to dinner and after I ordered something with meat, they told me they don't sit with people who eat meat and moved away so I ate my overpriced curry alone. I left for Peru the next morning.</p>
+  <p>Bad idea. Vilcabamba was the dumbest place I've visited so far. There is a legend that the people in Vilcabamba live upwards of 120 years which has been debunked many times, but a bunch of new agey spiritual people heard about it and decided to setup camp there. There are more expats than locals it seemed like. Every restaurant is vegan, every building is a yoga studio, every person is a sad washed up hippy who wants to sell you a dream catcher or some holistic healing bullshit. They have a reputation for settling there permantly and refusing to speak spanish. A couple invited me out to dinner and after I ordered something with meat, they told me they don't sit with people who eat meat and moved away so I ate my overpriced curry alone. The hostel had a pool at least.</p>
+
+  <p>I left for Peru the next morning.</p>
 
 </div>
