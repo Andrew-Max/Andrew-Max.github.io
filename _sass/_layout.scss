@@ -87,10 +87,6 @@
 /**
  * Page content
  */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
 .page-heading {
     font-size: 20px;
 }
@@ -186,9 +182,10 @@
 
     p {
         margin: 0;
-        padding: 40px 0;
-        font-size: 40px;
+        padding: 20px 0;
+        font-size: 28px;
         text-align: center;
         color: #3a3a3a;
+        height: 120px;
     }
 }

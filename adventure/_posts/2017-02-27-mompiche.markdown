@@ -1,0 +1,164 @@
+---
+uid: 7
+layout: post
+title:  "Surfing in Mompiche"
+date:   2017-02-27 15:39:40
+s3-base: https://dmw492fxu64ad.cloudfront.net/mompiche
+preview: 
+previousurl: /adventure/2017/02/24/quito/
+nexturl: /adventure/2017/02/27/cuenca-vilcabamba/
+images:
+  - type: horizontal
+    id: 1
+  - type: horizontal
+    id: 2
+  - type: horizontal
+    id: 3
+  - type: horizontal
+    id: 4
+  - type: horizontal
+    id: 5
+  - type: horizontal
+    id: 6
+  - type: horizontal
+    id: 7
+  - type: horizontal
+    id: 8
+  - type: horizontal
+    id: 9
+  - type: horizontal
+    id: 10
+  - type: horizontal
+    id: 11
+  - type: horizontal
+    id: 12
+  - type: horizontal
+    id: 13
+  - type: horizontal
+    id: 14
+  - type: horizontal
+    id: 15
+  - type: horizontal
+    id: 16
+  - type: horizontal
+    id: 17
+  - type: horizontal
+    id: 18
+  - type: horizontal
+    id: 19
+  - type: horizontal
+    id: 20
+  - type: horizontal
+    id: 21
+  - type: horizontal
+    id: 22
+  - type: horizontal
+    id: 23
+  - type: horizontal
+    id: 24
+  - type: horizontal
+    id: 25
+  - type: horizontal
+    id: 26
+  - type: horizontal
+    id: 27
+  - type: horizontal
+    id: 28
+  - type: horizontal
+    id: 29
+  - type: horizontal
+    id: 30
+  - type: horizontal
+    id: 31
+  - type: horizontal
+    id: 32
+  - type: horizontal
+    id: 33
+  - type: horizontal
+    id: 34
+  - type: horizontal
+    id: 35
+  - type: horizontal
+    id: 36
+  - type: horizontal
+    id: 37
+  - type: horizontal
+    id: 38
+  - type: horizontal
+    id: 39
+  - type: horizontal
+    id: 40
+  - type: horizontal
+    id: 41
+  - type: horizontal
+    id: 42
+  - type: horizontal
+    id: 43
+  - type: horizontal
+    id: 44
+  - type: horizontal
+    id: 45
+  - type: horizontal
+    id: 46
+  - type: horizontal
+    id: 47
+  - type: horizontal
+    id: 48
+  - type: horizontal
+    id: 49
+  - type: horizontal
+    id: 50
+  - type: horizontal
+    id: 51
+  - type: horizontal
+    id: 52
+  - type: horizontal
+    id: 53
+  - type: horizontal
+    id: 54
+  - type: horizontal
+    id: 55
+  - type: horizontal
+    id: 56
+  - type: horizontal
+    id: 57
+  - type: horizontal
+    id: 58
+  - type: horizontal
+    id: 59
+  - type: horizontal
+    id: 60
+  - type: horizontal
+    id: 61
+  - type: horizontal
+    id: 62
+  - type: horizontal
+    id: 63
+---
+
+<div class="post-content">
+  <h2>Quito -> Mompiche </h2>
+
+  <h4>Total Miles Covered So Far: 1550</h4>
+  <h4>2/17/17 - 2/24/17</h4>
+
+  <h3>Mompiche</h3>
+
+  <p>A friend of mine had given me the number of a guy who runs a surf touring company on the coast East of Quito. I went over to meet him in his home town of Atacames about 5 hours west of Quito. It was perfect weather for the entire ride and there was a distinct change to scenery that was completely different than anything else I'd seen as I move out of the Andes and towards the coast for the first time. Basically just thick fields of Palm trees and Banana trees in every direction. </p>
+
+  <p>I drove for for 5 hours with only the name of the town to meet up at but I finally managed to find John once I got to Atacames. One of the first thing he mentioned was that Atacames was a little bit dangerous, and when we went to get dinner a bunch of cops showed up at the restaurant we were at and had an all out brawl with some teenager who apparently had just robbed someone down the street. There wasn't much to do in Atacames and we agreed to leave for the beachtown of Mompiche the next morning.</p>
+
+  <p>Mompiche is a tiny town with no running water and huge stretches of amazing beach. It's become more touristy over the last couple years as it's gotten a reputation as a good surf spot, and the beach front is lined with bamboo hostels now.</p>
+
+  <p>John had originally said he wasn't trying to make money off the trip and just wanted to split gas but he started asking for money when I got there which kinda pissed me off so I offered to do one lesson and then just pay to rent the board from him and go my own way. It turned out to be a good move because my first day off surfing without any shirt left a huge bruise on my stomach and I really couldn't surf much more anyway. The surfing in Mompiche was really nice and easy though and i had way more luck then I'd ever had on the east coast of the states.</p>
+
+  <p>I was drinking at the hostel that night and there were two Italian girls, Sara and Denise who mentioned they were taking a boat out to an island the next day and invited me to come along. The island was really nice but wasn't as remote as I'd thought it would be. We brought a Pineapple but nothing to cut it with and I learned that you can rip a pinepple apart with your hands.</p>
+
+  <p>There was a famous black sand beach outside the island, and on the way out we bought some beers and stopped by to watch the sunset. Really good decisions, it was the most amazing sunset I've seen in my life.</p>
+
+  <p>Mompiche was a highlight of the trip but somehow the beach wasn't feeling that relaxing to me with the lack of running water, insane mosquitos, and just generally not being the cleanest place so I decided to head back to Quito</p>
+
+  <p>I booked an Private apartment through airbnb and drove back to Quito the next morning. I was kinda of annoyed to find 5 other people staying in other bedrooms of my "private apartment". Dealing with Airbnb phone support is a fuckingn nightmare and after probably almost an hour on hold they agreed that the listing was faulty and then said they were going to charge me anyway and I could dispute it with my credit card if I wanted. This was my third bad experience with Airbnb on the trip (out of 4) and I decided I'm done with them. </p>
+
+  <p>Ended up at the apartment for a couple nights mostly just sitting inside due to constant rain and working on the blog. When I thought the rain cleared out I headed south for Cuenca, which ended up being the rainiest ride of the trip so far. When I stopped halfway to Cuenca at Riobamba for the night, I poured at least a cup of water out of each shoe.</p>
+</div>

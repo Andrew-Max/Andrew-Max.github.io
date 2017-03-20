@@ -10,9 +10,6 @@
   <body>
 
     {% include header.html %}
-<!--     <div class="map">
-      <iframe src="https://www.google.com/maps/d/embed?mid=1a_JhyjNCnoYT8oBKcrTk5BNucls" width="1200" height="500"></iframe>
-    </div> -->
 
     <div class="page-content">
       {{ content }}
@@ -26,12 +23,20 @@
     <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
     <script type="text/javascript">
-    var elem = document.querySelector('.grid');
-    var msnry = new Masonry( elem, {
-      // options
-      itemSelector: '.grid-item',
-      columnWidth: 500
-    });
+      var columnWidth;
+      var elem = document.querySelector('.grid');
+      var gridWidth = Math.floor((window.innerWidth * .97 - 20)) 
+      if(window.innerWidth < 800 ) {
+        columnWidth = gridWidth - 20;
+      } else {
+        columnWidth = gridWidth / 3;
+      };
+
+      var msnry = new Masonry( elem, {
+        // options
+        itemSelector: '.grid-item',
+        columnWidth: columnWidth
+      });
     </script>
   </body>
 

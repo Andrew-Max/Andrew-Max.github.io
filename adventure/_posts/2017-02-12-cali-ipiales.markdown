@@ -3,9 +3,10 @@ uid: 4
 layout: post
 title:  "Headed for Ecuador: Cali to Ipiales"
 date:   2017-02-12 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/cali-ipiales
+s3-base: https://dmw492fxu64ad.cloudfront.net/cali-ipiales
 preview: thumb/horizontal/19.jpg
 previousurl: /adventure/2017/01/31/aguadas-cali/
+nexturl: /adventure/2017/02/20/border-otavalo/
 images:
   - type: pano
     id: 3
@@ -158,9 +159,10 @@ images:
 ---
 
 <div class="post-content">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/i70MZSLI0As?start=56" frameborder="0" allowfullscreen></iframe>
   <h2>Cali -> Popayan -> Ipiales </h2>
 
-  <h4>Total Miles Covered So Far: 645</h4>
+  <h4>Total Miles Covered So Far: 723</h4>
   <h4>2/4/17 - 2/8/17</h4>
 
   <h3>Popayan</h3>

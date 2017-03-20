@@ -1,0 +1,93 @@
+---
+uid: 6
+layout: post
+title:  "Studying Spanish in Quito"
+date:   2017-02-24 15:39:40
+s3-base: https://dmw492fxu64ad.cloudfront.net/quito
+preview: 
+previousurl: /adventure/2017/02/20/border-otavalo/
+nexturl: /adventure/2017/02/27/mompiche/
+images:
+  - type: horizontal
+    id: 1
+  - type: horizontal
+    id: 2
+  - type: horizontal
+    id: 3
+  - type: horizontal
+    id: 4
+  - type: horizontal
+    id: 5
+  - type: vertical
+    id: 1
+  - type: horizontal
+    id: 6
+  - type: horizontal
+    id: 7
+  - type: vertical
+    id: 4
+  - type: horizontal
+    id: 8
+  - type: horizontal
+    id: 9
+  - type: horizontal
+    id: 10
+  - type: horizontal
+    id: 11
+  - type: horizontal
+    id: 12
+  - type: horizontal
+    id: 13
+  - type: horizontal
+    id: 14
+  - type: horizontal
+    id: 15
+  - type: horizontal
+    id: 16
+  - type: horizontal
+    id: 17
+  - type: vertical
+    id: 2
+  - type: horizontal
+    id: 18
+  - type: horizontal
+    id: 19
+  - type: horizontal
+    id: 20
+  - type: horizontal
+    id: 21
+  - type: horizontal
+    id: 22
+  - type: horizontal
+    id: 23
+  - type: vertical
+    id: 3
+  - type: horizontal
+    id: 24
+  - type: horizontal
+    id: 25
+  - type: horizontal
+    id: 26
+  - type: horizontal
+    id: 27
+  - type: horizontal
+    id: 28
+  - type: horizontal
+    id: 29
+  - type: horizontal
+    id: 30
+---
+
+<div class="post-content">
+  <h2>Mindo -> Quito</h2>
+
+  <h4>Total Miles Covered So Far: 1320</h4>
+  <h4>2/8/17 - 2/17/17</h4>
+
+  <h3>Quito</h3>
+  <p>I really didn't love Quito. It's a big sprawling city, and as a result has a serious air quality problem. Your pretty much in a cloud of smoke all the time and frequently when I was riding the bike through the city I would have a truck or a bus blow a cloud of deisel smoke around me so thick I'd lose visibility.</p>
+
+  <p>My focus for Quito was spanish lessons and I did do a solid week of 4 hour a day spanish classes. I wasn't convinced it helped much as I was doing it but in the week or two after I started noticing I was understanding more so I think it did sink in a little. My Spanish is still pretty bad though...</p>
+
+  <p>Besides that I met a few cool people and Quito has some amazing Gothic architecture as well as some really good coffee shops but I was ready to go after a week...</p>
+</div>
