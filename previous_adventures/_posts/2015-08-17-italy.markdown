@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fighting Hasidic Jews in Italy"
+title:  "Sassoferrato, Florence, and Venice"
 date:   2015-08-17 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/italy
 preview: thumb/horizontal/18.jpg
