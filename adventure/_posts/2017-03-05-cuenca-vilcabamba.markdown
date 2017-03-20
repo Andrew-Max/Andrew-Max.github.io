@@ -144,6 +144,6 @@ images:
 <div class="post-content">
   <h2>Quito -> Mompiche </h2>
 
-  <h4>Total Miles Covered So Far: 1550</h4>
+  <h4>Total Miles Covered So Far: 1900</h4>
   <h4>2/17/17 - 2/24/17</h4>
 </div>
