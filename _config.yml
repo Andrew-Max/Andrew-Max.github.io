@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://andrew-max.com" # the base hostname & protocol for your site
 github_username: andrew-max
-
+cdn_url: https://dmw492fxu64ad.cloudfront.net
 # Build settings
 markdown: kramdown
 permalink: pretty

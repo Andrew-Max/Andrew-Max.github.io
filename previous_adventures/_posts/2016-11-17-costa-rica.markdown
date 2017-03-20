@@ -2,7 +2,7 @@
 layout: post
 title:  "Slumming it in Costa Rica"
 date:   2016-11-08 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/costa-rica
+s3-base: https://dmw492fxu64ad.cloudfront.net/costa-rica
 preview: thumb/horizontal/25.jpg
 previousurl: /previous_adventures/2015/08/17/italy/
 nexturl: /adventure/2016/12/20/planning/

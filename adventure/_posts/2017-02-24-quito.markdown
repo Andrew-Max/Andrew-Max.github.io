@@ -3,7 +3,7 @@ uid: 6
 layout: post
 title:  "Studying Spanish in Quito"
 date:   2017-02-24 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/quito
+s3-base: https://dmw492fxu64ad.cloudfront.net/quito
 preview: 
 previousurl: /adventure/2017/02/20/border-otavalo/
 nexturl: /adventure/2017/02/27/mompiche/

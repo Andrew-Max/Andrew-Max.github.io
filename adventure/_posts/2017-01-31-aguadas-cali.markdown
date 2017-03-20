@@ -3,7 +3,7 @@ uid: 3
 layout: post
 title:  "Into The Jungle: Medellin to Cali"
 date:   2017-01-31 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/aguadas-cali
+s3-base: https://dmw492fxu64ad.cloudfront.net/aguadas-cali
 preview: thumb/horizontal/19.jpg
 previousurl: /adventure/2017/01/08/medellin/
 nexturl: /adventure/2017/02/12/cali-ipiales/

@@ -2,7 +2,7 @@
 layout: post
 title:  "강남 스타일 and กะเทย"
 date:   2012-08-17 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/korea-thailand
+s3-base: https://dmw492fxu64ad.cloudfront.net/korea-thailand
 preview: thumb/horizontal/75.jpg
 nexturl: /previous_adventures/2015/08/17/italy/
 images:

@@ -3,7 +3,7 @@ uid: 8
 layout: post
 title:  "History and Annoying Hippies: Cuenca and Vilcabamba"
 date:   2017-02-27 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/cuenca-vilcabamba
+s3-base: https://dmw492fxu64ad.cloudfront.net/cuenca-vilcabamba
 preview: 
 previousurl: /adventure/2017/02/24/quito/
 images:

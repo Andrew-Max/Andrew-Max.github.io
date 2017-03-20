@@ -3,10 +3,10 @@ uid: 5
 layout: post
 title:  "Indigenous Market and Rainforest: Ipaiales to Mindo"
 date:   2017-02-20 15:39:40
-s3-base: https://s3.us-east-2.amazonaws.com/amax-blog-photos/border-otavalo
+s3-base: https://dmw492fxu64ad.cloudfront.net/border-otavalo
 preview: thumb/horizontal/1.jpg
 previousurl: /adventure/2017/02/12/cali-ipiales/
-nexturl: adventure/2017/02/24/quito/
+nexturl: /adventure/2017/02/24/quito/
 images:
   - type: horizontal
     id: 3
