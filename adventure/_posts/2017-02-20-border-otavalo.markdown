@@ -121,6 +121,8 @@ images:
 ---
 
 <div class="post-content">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IJRXsXPBcFw" frameborder="0" allowfullscreen></iframe>
+  
   <h2>Ipiales -> Otavalo -> Mindo </h2>
 
   <h4>Total Miles Covered So Far: 1120</h4>

@@ -159,6 +159,7 @@ images:
 ---
 
 <div class="post-content">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/i70MZSLI0As?start=56" frameborder="0" allowfullscreen></iframe>
   <h2>Cali -> Popayan -> Ipiales </h2>
 
   <h4>Total Miles Covered So Far: 723</h4>
