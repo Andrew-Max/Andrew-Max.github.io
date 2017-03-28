@@ -7,12 +7,13 @@ s3-base: https://dmw492fxu64ad.cloudfront.net/blog-how-to
 
 In this post I'll go through all the libraries and dependencies required to create a similiar blog, how to install them, and how I setup the content of the blog itself
 
+Disclaimer: The ideal intended audience for this blog is everyone. My goal is to make it so you could try to repeat these steps with no technical knowledge. Unfortunately there is no way to write it without assuming the baseline of knowing git and running some basic command line commandes.If you don't already have these skills, I encourage you to check out codeschool.com which has some good free resources for learning these things. If you can't follow something, reach out to me and let me know!
+
 # Dependencies: What you need to create a similiar blog
 
 ## Git and a Github Account">
 All the code for this blog is open source on github. Check it out at <a href="https://github.com/Andrew-Max/Andrew-Max.github.io">https://github.com/Andrew-Max/Andrew-Max.github.io</a>
 
-Disclaimer: The ideal intended audience for this blog is everyone. My goal is to make it so you could try to repeat these steps with no technical knowledge. Unfortunately there is no way to write it without assuming the baseline of knowing git and running some basic command line commandes.If you don't already have these skills, I encourage you to check out codeschool.com which has some good free resources for learning these things. If you can't follow something, reach out to me and let me know!
 
 # Basic Rundown
 
