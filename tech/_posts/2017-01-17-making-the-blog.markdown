@@ -43,7 +43,7 @@ This blog is photo heavy and relies on a cheap and reliable way to store and ser
 
 ## And possibly a unix based machine(Mac or Linux)
 
-I would almost guarantee that everything I'm doing here could be done on Windows but I'm not sure what the differences would be and it may be more difficult. This blog assumes you are using mac or windows.
+I would almost guarantee that everything I'm doing here could be done on Windows but I'm not sure what the differences would be and it may be more difficult. This blog assumes you are using Mac or Linux.
 
 # Installing and Running the app
 
