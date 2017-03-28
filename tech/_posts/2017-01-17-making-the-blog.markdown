@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting Up a Blog with Jekyll, Github Pages, and AWS S3"
+title:  "Make a Photo Blog with Jekyll, Github Pages, and AWS S3"
 date:   2017-01-12 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/blog-how-to
 ---
@@ -244,10 +244,11 @@ We want to switch the one called `origin` to be tied to your repo not mine. For 
 First go to the github page for the repo you just created and find the green 'clone or download' button on the right hand side of the page and click it. This should open up a little window, unless you already know how to use SSH make sure it says "Clone with HTTPS". If it says "Clone with SSH", find the button to switch it to HTTPS and copy the link.
 
 Now back at your command line enter
-`$ git add .` (only if you have made some changes)
-`$ git commit -m "first commit"` (only if you have made some changes)
-`$ git remote add origin <url-you-just-copied>`
-`$git push -f origin master` (WARNING: the -f means force and it's generally a bad idea, but in this case it's okay) and if you refresh your repo page on github, your code should all be there.
+
+`$ git add .` (only if you have made some changes)<br>
+`$ git commit -m "first commit"` (only if you have made some changes)<br>
+`$ git remote add origin <url-you-just-copied>`<br>
+`$ git push -f origin master` (WARNING: the -f means force and it's generally a bad idea, but in this case it's okay) and if you refresh your repo page on github, your code should all be there.
 
 ## LAST STEP! Make sure the repo is setup to serve your blog
 
