@@ -4,7 +4,7 @@ layout: post
 title:  "Studying Spanish in Quito"
 date:   2017-02-24 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/quito
-preview: 
+preview:
 previousurl: /adventure/2017/02/20/border-otavalo/
 nexturl: /adventure/2017/02/27/mompiche/
 images:
@@ -78,7 +78,7 @@ images:
     id: 30
 ---
 
-<div class="post-content">
+<div>
   <h2>Mindo -> Quito</h2>
 
   <h4>Total Miles Covered So Far: 1320</h4>

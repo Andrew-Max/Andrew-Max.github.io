@@ -4,7 +4,7 @@ layout: post
 title:  "Surfing in Mompiche"
 date:   2017-02-27 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/mompiche
-preview: 
+preview:
 previousurl: /adventure/2017/02/24/quito/
 nexturl: /adventure/2017/02/27/cuenca-vilcabamba/
 images:
@@ -136,7 +136,7 @@ images:
     id: 63
 ---
 
-<div class="post-content">
+<div>
   <h2>Quito -> Mompiche </h2>
 
   <h4>Total Miles Covered So Far: 1550</h4>

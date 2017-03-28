@@ -4,7 +4,7 @@ layout: post
 title:  "History and Annoying Hippies: Cuenca and Vilcabamba"
 date:   2017-02-27 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/cuenca-vilcabamba
-preview: 
+preview:
 previousurl: /adventure/2017/02/24/quito/
 images:
   - type: pano
@@ -141,7 +141,7 @@ images:
     id: 5
 ---
 
-<div class="post-content">
+<div>
   <h2>Mompiche -> Quito -> Riobamba -> Cuenca -> Vilcabamba </h2>
 
   <h4>Total Miles Covered So Far: 1900</h4>

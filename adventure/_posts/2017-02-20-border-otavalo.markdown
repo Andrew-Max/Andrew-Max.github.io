@@ -120,9 +120,9 @@ images:
     id: 48
 ---
 
-<div class="post-content">
+<div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IJRXsXPBcFw" frameborder="0" allowfullscreen></iframe>
-  
+
   <h2>Ipiales -> Otavalo -> Mindo </h2>
 
   <h4>Total Miles Covered So Far: 1120</h4>
@@ -142,7 +142,7 @@ images:
   <p>I met two French Girls, Sixtine and Eva, at the hostel who invited me to go trekking the next day in the foot hills of the Cayambe Volcano. We want on a 4 hour hike that crossed a couple of really beautiful lakes and ended up finding someone to give us a ride back to the base because we were late for the taxi that was supposed to pick us up and take us back to town</p>
 
   <p>We all went out drinking that night and I stepped in a big pull of dog diarrhea and just felt gross the whole night. I also had the worst mojito of my life.</p>
-  
+
   <h3>Mindo</h3>
 
   <p>When I was on my way out of Otavalo, my friend Maranda messaged me on facebook and told me she was randomly travelling around Ecuador for a week. She was in Central Ecuador and heading out to the cloudforest called Mindo east of Quito the next day. I drove down to quito, dropped off my stuff  and headed straight to mindo.</p>

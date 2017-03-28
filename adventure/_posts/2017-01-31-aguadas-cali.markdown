@@ -127,7 +127,7 @@ images:
   - type: pano
     id: 5
 ---
-<div class="post-content">
+<div>
   <h2>Medellin -> Aguadas -> Manizales -> Armenia -> Filandia -> Cali</h2>
 
   <h4>Miles Covered: 320</h4>

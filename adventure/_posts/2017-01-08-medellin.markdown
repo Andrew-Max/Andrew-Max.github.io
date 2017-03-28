@@ -93,7 +93,7 @@ images:
   - type: horizontal
     id: 30
 ---
-<div class="post-content">
+<div>
 
   I landed in Medellin on the night of December the 29th at 2 in the morning. I was exhausted and had surreal taxi ride through thick jungle foliage and thicker fog to a small Hotel outside the city, <a href="http://www.casamosaico.co/fotos/">Casa Mosaica</a> where I could lock up all my trip gear until I could drop it off at a friend's house the next day.
   <br>
