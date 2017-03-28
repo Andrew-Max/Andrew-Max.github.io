@@ -2,10 +2,7 @@
 <html>
 
   {% include head.html %}
-  <div style="display:none;">
-    <img src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/aguadas-cali/thumb/horizontal/29.jpg">
-    <img src="https://s3.us-east-2.amazonaws.com/amax-blog-photos/cali-ipiales/thumb/horizontal/52.jpg">
-  </div>
+  <img style="display:none" src="{{page.s3-base}}/cover.jpg">
 
   <body>
 
@@ -25,7 +22,7 @@
     <script type="text/javascript">
       var columnWidth;
       var elem = document.querySelector('.grid');
-      var gridWidth = Math.floor((window.innerWidth * .97 - 20)) 
+      var gridWidth = Math.floor((window.innerWidth * .97 - 20))
       if(window.innerWidth < 800 ) {
         columnWidth = gridWidth - 20;
       } else {

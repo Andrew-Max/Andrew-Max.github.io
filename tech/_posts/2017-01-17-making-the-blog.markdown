@@ -4,7 +4,6 @@ title:  "Make a Photo Blog with Jekyll, Github Pages, and AWS S3"
 date:   2017-01-12 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/blog-how-to
 ---
-<img style="display:none" src="https://dmw492fxu64ad.cloudfront.net/blog-how-to/cover.jpg">
 
 In this post I'll go through all the libraries and dependencies required to create a similiar blog, how to install them, and how I setup the content of the blog itself
 
