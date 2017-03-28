@@ -16,3 +16,6 @@ exclude:
   - .asset-cache
   - vendor
   - .gitignore
+
+gems:
+- jekyll-sitemap
