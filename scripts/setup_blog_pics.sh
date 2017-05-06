@@ -1,4 +1,5 @@
 #!/bin/bash
+mogrify -auto-orient ./full/vertical/*
 
 COUNTER=100
 
