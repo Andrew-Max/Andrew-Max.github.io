@@ -6,6 +6,7 @@ date:   2017-02-27 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/cuenca-vilcabamba
 preview:
 previousurl: /adventure/2017/02/24/quito/
+nexturl: /adventure/2017/03/08/vilcabamba-chachapoyas/
 images:
   - type: pano
     id: 1
