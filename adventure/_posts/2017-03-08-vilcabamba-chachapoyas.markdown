@@ -8,12 +8,14 @@ preview:
 previousurl: /adventure/2017/02/27/cuenca-vilcabamba/
 nexturl: /adventure/2017/03/17/chachapoyas-huamachuco/
 images:
+  - type: pano
+    id: 3
   - type: horizontal
     id: 3
   - type: horizontal
-    id: 1
+    id: 7
   - type: horizontal
-    id: 38
+    id: 45
   - type: horizontal
     id: 26
   - type: vertical
@@ -46,6 +48,8 @@ images:
     id: 37
   - type: pano
     id: 1
+  - type: horizontal
+    id: 82
   - type: vertical
     id: 1
   - type: horizontal
@@ -54,18 +58,16 @@ images:
     id: 4
   - type: horizontal
     id: 28
-  - type: vertical
-    id: 3
-  - type: vertical
-    id: 7
-  - type: horizontal
-    id: 6
   - type: horizontal
     id: 19
   - type: horizontal
-    id: 7
+    id: 1
   - type: horizontal
     id: 9
+  - type: pano
+    id: 4
+  - type: vertical
+    id: 3
   - type: horizontal
     id: 10
   - type: horizontal
@@ -74,14 +76,14 @@ images:
     id: 8
   - type: horizontal
     id: 14
-  - type: vertical
-    id: 5
   - type: horizontal
     id: 16
   - type: horizontal
     id: 18
   - type: horizontal
     id: 31
+  - type: pano
+    id: 5
   - type: horizontal
     id: 20
   - type: horizontal
@@ -90,6 +92,8 @@ images:
     id: 32
   - type: vertical
     id: 2
+  - type: horizontal
+    id: 6
   - type: horizontal
     id: 24
   - type: horizontal
@@ -102,8 +106,6 @@ images:
     id: 23
   - type: horizontal
     id: 27
-  - type: vertical
-    id: 12
   - type: horizontal
     id: 42
   - type: horizontal
@@ -111,13 +113,68 @@ images:
   - type: horizontal
     id: 44
   - type: horizontal
-    id: 45
+    id: 38
   - type: horizontal
     id: 46
   - type: horizontal
     id: 47
   - type: horizontal
     id: 48
+  - type: horizontal
+    id: 49
+  - type: horizontal
+    id: 50
+  - type: horizontal
+    id: 51
+  - type: horizontal
+    id: 52
+  - type: horizontal
+    id: 53
+  - type: horizontal
+    id: 54
+  - type: horizontal
+    id: 55
+  - type: horizontal
+    id: 56
+  - type: horizontal
+    id: 57
+  - type: horizontal
+    id: 83
+  - type: horizontal
+    id: 58
+  - type: horizontal
+    id: 59
+  - type: horizontal
+    id: 60
+  - type: horizontal
+    id: 61
+  - type: horizontal
+    id: 62
+  - type: horizontal
+    id: 63
+  - type: horizontal
+    id: 64
+  - type: horizontal
+    id: 65
+  - type: horizontal
+    id: 69
+  - type: horizontal
+    id: 70
+  - type: horizontal
+    id: 73
+  - type: horizontal
+    id: 76
+  - type: horizontal
+    id: 77
+  - type: horizontal
+    id: 78
+  - type: horizontal
+    id: 80
+  - type: horizontal
+    id: 81
+  - type: horizontal
+    id: 86
+ 
 ---
 
 <div>
