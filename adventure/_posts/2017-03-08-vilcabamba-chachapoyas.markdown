@@ -141,6 +141,8 @@ images:
   - type: horizontal
     id: 83
   - type: horizontal
+    id: 2
+  - type: horizontal
     id: 58
   - type: horizontal
     id: 59
