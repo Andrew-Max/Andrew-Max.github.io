@@ -60,5 +60,5 @@ images:
   I stayed one night in Chiclayo, than loaded my bike on the bottom of a tour bus the next afternoon and drove 16 hours in the bus to Guayaquil Ecuador, then got straight off the bus and back on the bike for a miserable rainy 10 hour ride to Quito. This meant by night 3 I had undone 2/3 of my trip and was almost back in Colombia. I stayed in Quito for two nights and then gunned it back up to Medellin over the next 5 days.
 <br>
 <br>
-  And now I'm sitting in a cafe where I have been writing the last 5 blog posts for the last 5 hours. I've ended up in a pretty nice apartment for less than $500 a month and ended up landing the Job of my life after only searching 10 days which means I'm going to get to keep traveling the world while working a real job. So that's it. Hopefully more adventures to come :)
+  And now I'm sitting in a cafe where I have been writing the last 5 blog posts for the last 5 hours. I've ended up in a pretty nice apartment for less than $500 a month and ended up getting an awesome new job that is going to allow me to continue traveling the world. So that's it. Hopefully more adventures to come :)
 </div>
