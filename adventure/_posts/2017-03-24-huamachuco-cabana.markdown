@@ -1,109 +1,105 @@
 ---
 uid: 11
 layout: post
-title:  "I break My Bike in the Middle of Nowhere, Flooding Everywhere"
+title:  "I break My Bike in the Middle of Nowhere"
 date:   2017-03-24 15:39:40
 s3-base: https://dmw492fxu64ad.cloudfront.net/huamachuco-cabana
 preview: 
 previousurl: /adventure/2017/03/17/chachapoyas-huamachuco/
 nexturl: /adventure/2017/04/04/cabana-huaraz/
 images:
-  - type: horizontal
-    id: 3
+  - type: pano
+    id: 1
   - type: horizontal
     id: 1
   - type: horizontal
-    id: 38
-  - type: horizontal
-    id: 26
-  - type: vertical
-    id: 4
-  - type: horizontal
-    id: 33
-  - type: horizontal
-    id: 34
-  - type: horizontal
-    id: 36
-  - type: pano
     id: 2
   - type: horizontal
-    id: 29
+    id: 3
+  - type: horizontal
+    id: 4
   - type: horizontal
     id: 5
   - type: horizontal
-    id: 39
-  - type: horizontal
-    id: 30
-  - type: horizontal
-    id: 41
-  - type: horizontal
-    id: 11
-  - type: horizontal
-    id: 17
-  - type: horizontal
-    id: 12
-  - type: horizontal
-    id: 37
-  - type: pano
-    id: 1
-  - type: vertical
-    id: 1
-  - type: horizontal
-    id: 13
-  - type: horizontal
-    id: 4
-  - type: horizontal
-    id: 28
-  - type: vertical
-    id: 3
-  - type: vertical
-    id: 7
-  - type: horizontal
     id: 6
   - type: horizontal
-    id: 19
-  - type: horizontal
     id: 7
+  - type: vertical
+    id: 3
+  - type: horizontal
+    id: 8
   - type: horizontal
     id: 9
   - type: horizontal
     id: 10
   - type: horizontal
-    id: 40
+    id: 11
   - type: horizontal
-    id: 8
+    id: 12
+  - type: horizontal
+    id: 13
   - type: horizontal
     id: 14
-  - type: vertical
-    id: 5
+  - type: horizontal
+    id: 15
   - type: horizontal
     id: 16
   - type: horizontal
+    id: 17
+  - type: horizontal
     id: 18
   - type: horizontal
-    id: 31
+    id: 19
   - type: horizontal
     id: 20
   - type: horizontal
     id: 21
   - type: horizontal
-    id: 32
-  - type: vertical
-    id: 2
+    id: 22
+  - type: horizontal
+    id: 23
   - type: horizontal
     id: 24
   - type: horizontal
     id: 25
   - type: horizontal
-    id: 35
-  - type: horizontal
-    id: 22
-  - type: horizontal
-    id: 23
+    id: 26
+  - type: vertical
+    id: 1
   - type: horizontal
     id: 27
+  - type: horizontal
+    id: 28
+  - type: horizontal
+    id: 29
+  - type: horizontal
+    id: 30
+  - type: horizontal
+    id: 31
   - type: vertical
-    id: 12
+    id: 6
+  - type: horizontal
+    id: 32
+  - type: horizontal
+    id: 33
+  - type: horizontal
+    id: 34
+  - type: horizontal
+    id: 35
+  - type: horizontal
+    id: 36
+  - type: horizontal
+    id: 37
+  - type: horizontal
+    id: 38
+  - type: horizontal
+    id: 39
+  - type: horizontal
+    id: 40
+  - type: horizontal
+    id: 41
+  - type: vertical
+    id: 7
   - type: horizontal
     id: 42
   - type: horizontal
@@ -118,6 +114,18 @@ images:
     id: 47
   - type: horizontal
     id: 48
+  - type: vertical
+    id: 2
+  - type: horizontal
+    id: 49
+  - type: horizontal
+    id: 50
+  - type: horizontal
+    id: 51
+  - type: horizontal
+    id: 52
+  - type: horizontal
+    id: 53
 ---
 
 <div>
