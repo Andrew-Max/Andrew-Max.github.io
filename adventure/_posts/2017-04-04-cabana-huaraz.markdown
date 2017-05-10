@@ -218,35 +218,29 @@ images:
     id: 77
 ---
 
-<div>
-
-  <h2>Cabana -> Huaraz</h2>
-
+  <h3>Cabana -> Huaraz</h3>
   <h4>Total Miles Covered So Far: 3800</h4>
   <h4>3/25/17 - 4/4/17</h4>
 
-  <h3>Cabana To Huaraz</h3>
+  <h2>Cabana To Huaraz</h2>
   I was a little nervous about this trip becuase I had a lot of miles to cover and every other trip recently had ended up being a nightmare. Everything ended up going reall smoothly though. It started in a big green mountain pass and then went into a really barren sandstone canyon. The canyon looked like something out of a video game and was covered with little abandoned villages which I couldn't tell if they were 1000 years old or 50 and I have a feeling were probably a mix of both.
-<br>
-  After getting out of that canyon you go straight into another one called the Canyon Del Pato which has a huge fast flowing river going through it the whole time and a big hydro electric dam in the middle. I think I probably saw hundreds of huge waterfalls and you cross through over 30 single lane tunnels with no lights which are carved right into the mountain side which are kind of terrifying because some were long enough that a truck could be coming on the other side and you wouldn't be able to see at the entrance. This is extra scary becuase Peru has the absolute worst drivers on the planet in my opinion (not sarcasm) and they generally will choose to run you over instead of doing something reasonable like slowing down or staying in their lane if they have to make a choice but this was the one time I saw them slow down and drive carefully so I felt pretty safe.
-<br>
-  After that it was another easy 2 hours to Huaraz with huge snowcapped mountains in the background.
-<br><br>
 
-  <h3>Huaraz</h3>
-  <p>When I originally started planning this trip, there were two places that I found that were so cool that they made me decide to do it. Cuenca and Huaraz. Huaraz is sitting right at the bottom of one of the biggest mountain ranges of the Andes and has huge Glaciers at the top of the mountains which melt into glowing glacial lakes.
-<br>
+  After getting out of that canyon you go straight into another one called the Canyon Del Pato which has a huge fast flowing river going through it the whole time and a big hydro electric dam in the middle. I think I probably saw hundreds of huge waterfalls and you cross through over 30 single lane tunnels with no lights which are carved right into the mountain side which are kind of terrifying because some were long enough that a truck could be coming on the other side and you wouldn't be able to see at the entrance. This is extra scary becuase Peru has the absolute worst drivers on the planet in my opinion (not sarcasm) and they generally will choose to run you over instead of doing something reasonable like slowing down or staying in their lane if they have to make a choice but this was the one time I saw them slow down and drive carefully so I felt pretty safe.
+  After that it was another easy 2 hours to Huaraz with huge snowcapped mountains in the background.
+
+  <h2>Huaraz</h2>
+  When I originally started planning this trip, there were two places that I found that were so cool that they made me decide to do it. Cuenca and Huaraz. Huaraz is sitting right at the bottom of one of the biggest mountain ranges of the Andes and has huge Glaciers at the top of the mountains which melt into glowing glacial lakes.
+
   When I was stuck on the farm and in Angasmarca I had pretty much decided that I wasn't that motivated to make it to Bolivia and at the rate I was going with all the flooding and reroutes it would have taken forever anyway. I felt like I'd had my adventure but the last box I really wanted to tick off was trekking in Huaraz.
-<br>
+
   I found a really nice hostel in Huaraz which I was super excited about after my little adventure. Even the Hotel in Cabana was fairly shitty although that was at least pretty clean but this place was nice by U.S. standards. They had a free buffet breakfast every morning that was the by far the best hostel breakfast of the trip and you could look out on the snow capped mountains as you ate.
-<br>
+
   There was only one other person at the hostel when I got there, an awesome American guy named Toby who was also interested in trekking so we went out and talked to the trekking tour shops in the center plaza. The most popular trek is to Lake 69 which I thought was a joke at first but apparently they just numbered each of the hundres of lakes on the mountain range and #69 just happened to be the nicest lake close to the city.
-<br>
+
   We booked the trek for third day. I think it was one of the best days of the trip. We got good weather for most of the day. It's about 2-3 hours up to the lake with two false summits and the whole hike is really scenic but very steep. The lake is incredibly bright all the time but when the sun hits it is seems to start glowing.
-<br>
+
   After that, all there was to do was to relax for a couple days and then figure out what I was going to with the bike and how I wanted to get back to Medellin. I had been on the road for about three months at this point and I was actually pretty much tired out. I was ready for a daily routine and an apartment and Medellin is definitely the best option for doing that.
-<br>
+
   The original plan was to go to Lima, sell the bike, and fly to Medellin. This probably would have been fine but it was technically illegal because of the terms of my import permit and I was nervous about getting stopped at customs. Also I would have not been able to sell the bike for nearly as much and I wouldn't have had the bike to use while I was living in Medellin.
-<br>
+
   So at the last minute, I decided I'd just get it over with and drive back north as quick as I possibly could.
-</div>

@@ -7,7 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 github_username: andrew-max
 cdn_url: https://dmw492fxu64ad.cloudfront.net
 # Build settings
-markdown: kramdown
 permalink: pretty
 
 # Assets configuration
