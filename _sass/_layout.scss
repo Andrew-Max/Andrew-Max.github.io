@@ -181,7 +181,7 @@
 
         p {
             margin: 0;
-            padding: 20px 0;
+            padding: 20px 2px;
             font-size: 28px;
             text-align: center;
             color: #3a3a3a;
@@ -189,7 +189,10 @@
 
             @media (min-width: 760px) and (max-width: 1200px) {
                 font-size: 21px;
-                color: green;
+            }
+
+            @media (max-width: 500px) {
+                font-size: 23px;
             }
         }
     }
