@@ -77,17 +77,13 @@ images:
   - type: horizontal
     id: 30
 ---
-
-<div>
-  <h2>Mindo -> Quito</h2>
-
+  <h3>Mindo -> Quito</h3>
   <h4>Total Miles Covered So Far: 1320</h4>
   <h4>2/8/17 - 2/17/17</h4>
 
-  <h3>Quito</h3>
-  <p>I really didn't love Quito. It's a big sprawling city, and as a result has a serious air quality problem. You're pretty much in a cloud of smoke all the time and frequently when I was riding the bike through the city I would have a truck or a bus blow a cloud of deisel smoke around me so thick I'd lose visibility.</p>
+  <h2>Quito</h2>
+  I really didn't love Quito. It's a big sprawling city, and as a result has a serious air quality problem. You're pretty much in a cloud of smoke all the time and frequently when I was riding the bike through the city I would have a truck or a bus blow a cloud of deisel smoke around me so thick I'd lose visibility.
 
-  <p>My focus for Quito was spanish lessons and I did do a solid week of 4 hour a day spanish classes. I wasn't convinced it helped much as I was doing it but in the week or two after I started noticing I was understanding more so I think it did sink in a little. My Spanish is still pretty bad though...</p>
+  My focus for Quito was spanish lessons and I did do a solid week of 4 hour a day spanish classes. I wasn't convinced it helped much as I was doing it but in the week or two after I started noticing I was understanding more so I think it did sink in a little. My Spanish is still pretty bad though...
 
-  <p>Besides that I met a few cool people and Quito has some amazing Gothic architecture as well as some really good coffee shops but I was ready to go after a week...</p>
-</div>
+  Besides that I met a few cool people and Quito has some amazing Gothic architecture as well as some really good coffee shops but I was ready to go after a week...

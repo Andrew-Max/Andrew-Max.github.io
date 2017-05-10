@@ -11,7 +11,7 @@ Disclaimer: The ideal intended audience for this blog is everyone. My goal is to
 
 # Dependencies: What you need to create a similiar blog
 
-## Git and a Github Account">
+## Git and a Github Account
 All the code for this blog is open source on github. Check it out at <a href="https://github.com/Andrew-Max/Andrew-Max.github.io">https://github.com/Andrew-Max/Andrew-Max.github.io</a>
 
 
