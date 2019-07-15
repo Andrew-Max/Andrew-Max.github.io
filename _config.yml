@@ -16,5 +16,5 @@ exclude:
   - vendor
   - .gitignore
 
-gems:
+plugins:
 - jekyll-sitemap
