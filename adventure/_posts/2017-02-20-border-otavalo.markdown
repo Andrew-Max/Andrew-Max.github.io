@@ -138,7 +138,7 @@ images:
 
   I met two French Girls, Sixtine and Eva, at the hostel who invited me to go trekking the next day in the foot hills of the Cayambe Volcano. We want on a 4 hour hike that crossed a couple of really beautiful lakes and ended up finding someone to give us a ride back to the base because we were late for the taxi that was supposed to pick us up and take us back to town
 
-  We all went out drinking that night and I stepped in a big pull of dog diarrhea and just felt gross the whole night. I also had the worst mojito of my life.
+  We all went out drinking that night and I stepped in a big heap of dog diarrhea while we were walking to the bar and just felt gross the whole night.
 
   <h2>Mindo</h2>
   When I was on my way out of Otavalo, my friend Maranda messaged me on facebook and told me she was randomly travelling around Ecuador for a week. She was in Central Ecuador and heading out to the cloudforest called Mindo east of Quito the next day. I drove down to quito, dropped off my stuff  and headed straight to mindo.
