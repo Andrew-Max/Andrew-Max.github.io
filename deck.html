@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  <embed
+      src="{{ myimage.path }}"
+      type="application/pdf"
+      frameBorder="0"
+      scrolling="auto"
+      height="800px"
+      width="100%"
+  ></embed>
+
+{% endfor %}
